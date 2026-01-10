@@ -1,0 +1,77 @@
+[
+  {
+    "id": "rag-app",
+    "title": "Enterprise RAG Applications",
+    "subtitle": "LLM-powered document intelligence",
+    "tags": ["Python", "GCP", "LangChain", "LLMs"],
+    "genres": ["Generative AI", "NLP", "Vector Databases"],
+    "mood": "Intelligent • Conversational • Enterprise-Ready",
+    "image": "assets/images/proj_rag.png",
+    "description": "Built retrieval-augmented generation (RAG) applications that integrate vector search and large language models to answer questions over unstructured documents.",
+    "details": [
+      "Designed and deployed RAG pipelines on GCP using LangChain, embedding text into vector stores and orchestrating document ingestion and retrieval for millions of pages.",
+      "Improved query accuracy by 40% and reduced manual search time by enabling natural language questions over enterprise documents.",
+      "Built Streamlit-based UI applications to provide business users with a simple, secure interface for querying and visualizing results."
+    ]
+  },
+  {
+    "id": "genai-platform",
+    "title": "Generative AI Platform",
+    "subtitle": "Large Language Model Training & Serving",
+    "tags": ["Python", "SageMaker", "LLMs", "RLHF"],
+    "genres": ["Generative AI", "RLHF", "Model Systems"],
+    "mood": "Scalable • Optimized • Research-Driven",
+    "image": "assets/images/proj_genai.png",
+    "description": "Developed a generative AI platform for training and serving large language models with cost-efficient optimization techniques.",
+    "details": [
+      "Applied data parallelism and ZeRO-style optimization on AWS SageMaker to train large language models, reducing compute cost by 40% without sacrificing performance.",
+      "Implemented Reinforcement Learning from Human Feedback (RLHF) and retrieval-augmented generation techniques to improve model alignment and reduce hallucination.",
+      "Built scalable model serving and monitoring pipelines to enable rapid experimentation and production deployment."
+    ]
+  },
+  {
+    "id": "affective-state",
+    "title": "Affective State Analysis",
+    "subtitle": "User Engagement Recognition with VGG-16",
+    "tags": ["Python", "VGG-16"],
+    "genres": ["Computer Vision", "Deep Learning", "Affective Computing"],
+    "mood": "Analytical • Perceptive • Human-Centered",
+    "image": "assets/images/proj_vgg.png",
+    "description": "Built a multi-view engagement recognition prototype to classify user affective states.",
+    "details": [
+      "Designed and trained a convolutional neural network based on VGG-16 to classify four engagement levels from multi-view facial images.",
+      "Fine-tuned pre-trained weights and implemented data augmentation to achieve 87% classification accuracy.",
+      "Demonstrated the feasibility of affective computing in real-time user feedback systems."
+    ]
+  },
+  {
+    "id": "marl-traffic",
+    "title": "Multi-Agent RL for Traffic Control",
+    "subtitle": "Smart City Traffic Optimization",
+    "tags": ["Reinforcement Learning", "Multi-Agent", "SUMO"],
+    "genres": ["Deep Reinforcement Learning", "Smart Cities", "Research"],
+    "mood": "Strategic • Coordinated • Systems-Focused",
+    "image": "assets/images/proj_marl.png",
+    "description": "Applied multi-agent reinforcement learning to optimize traffic flow in smart city simulations.",
+    "details": [
+      "Modeled traffic lights as cooperating agents and implemented RL algorithms (Actor-Critic, PPO) within the SUMO simulator.",
+      "Developed reward functions balancing individual intersection throughput with network-wide efficiency.",
+      "Achieved reduced congestion and improved travel times by learning coordinated policies for signal control."
+    ]
+  },
+  {
+    "id": "voice-robotics",
+    "title": "Voice-Activated Robotics Assistant",
+    "subtitle": "Hands-Free Control for Boston Dynamics Spot",
+    "tags": ["Python", "Voice", "Robotics", "LLMs"],
+    "genres": ["Robotics", "Audio Processing", "Edge AI"],
+    "mood": "Interactive • Low-Latency • Futuristic",
+    "image": "assets/images/proj_spot.png",
+    "description": "Created a low-latency voice control system for robotics using on-device models and secure AI agents.",
+    "details": [
+      "Designed a wake-word activation system with noise suppression and echo cancellation to buffer audio and trigger speech recognition.",
+      "Streamed queries to an internal LLM agent and returned synthesized responses via text-to-speech, enabling natural language control of robots.",
+      "Awarded at a cross-functional hackathon for delivering a voice-controlled navigation system for the Boston Dynamics Spot robot."
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "id": "veolia",
+    "company": "Veolia North America",
+    "title": "Data Engineer",
+    "location": "New Jersey, USA",
+    "start_date": "June 2023",
+    "end_date": "Present",
+    "image": "assets/images/exp_veolia.png", 
+   "genres": ["Infrastructure", "Cloud Architecture", "Data Governance", "Big Data"],
+    "mood": "Scalable • Mission-Critical • Platform-Led",
+    "tags": ["GCP", "Python", "SQL"],
+    "bullets":  [
+      "Architected and delivered an enterprise Data & AI platform serving six business units, enabling governed warehouses, streaming pipelines, and ML infrastructure on GCP. Improved query latency by 40% and throughput by 35% across 100+ TB/day workloads.",
+      "Standardized ingestion frameworks (CDC, API, SFTP, batch) to enable one-click onboarding of 50+ data sources and operate 1,000+ production tables in BigQuery. Served as interim operational lead ensuring SLA adherence and platform reliability.",
+      "Re-architected batch pipelines into streaming-first architectures using Datastream and Dataflow, reducing data availability from days to seconds while implementing incremental merge, deduplication, and reconciliation frameworks to achieve 99.8% data accuracy.",
+      "Built a self-service access management platform and organization-wide observability layer (freshness SLAs, anomaly detection, cost attribution), cutting access provisioning from two days to seconds and reducing cloud costs by up to 80%.",
+      "Developed production AI pipelines using Document AI and Vertex AI to extract structured data from 10K+ monthly invoices with 98% accuracy, reducing manual processing time by 75% and accelerating downstream analytics.",
+      "Architected a privacy-aware, low-latency voice interaction system using an on-device TFLite wake-word model, noise suppression, and Whisper-based STT, enabling hands-free access to secure internal AI agents and real-time TTS responses."
+    ]
+  },
+  {
+    "id": "suny",
+    "company": "University at Buffalo, SUNY",
+    "title": "Machine Learning Researcher",
+    "location": "Buffalo, NY, USA",
+    "start_date": "February 2022",
+    "end_date": "June 2023",
+    "image": "assets/images/exp_suny.webp",
+    "tags": ["Python", "SQL", "Reinforcement Learning", "Deep Learning"],
+    "genres": ["Research", "Artificial Intelligence", "Smart Cities"],
+    "mood": "Analytical • Experimental • Future-Oriented",
+    "bullets":  [
+      "Conducted research on fairness in multi-agent reinforcement learning, designing algorithms that balance individual and collective rewards under constrained environments. Demonstrated improved coordination and equity using DDQN and PPO in custom simulation frameworks.",
+      "Optimized traffic flow in smart-city environments by modeling traffic signals as learning agents and applying deep RL (Actor-Critic, PPO) in the SUMO simulator, reducing congestion and improving system-wide efficiency through adaptive policy learning."
+    ]
+  }, 
+  {
+    "id": "kaiser",
+    "company": "Kaiser Permanente",
+    "title": "Software Engineer",
+    "location": "Hyderabad, India",
+    "start_date": "June 2019",
+    "end_date": "August 2021",
+    "image": "assets/images/exp_kaiser.png",
+    "tags": ["Python", "Java", "SQL"],
+    "genres": ["Healthcare IT", "Backend Systems", "Distributed Systems"],
+    "mood": "Reliable • Automated • Enterprise-Grade",
+    "bullets": [
+      "Built batch and backend microservices to automate SOP workflows, reducing manual effort by 90% and saving over 100 engineering hours per month through optimized SQL pipelines and service orchestration.",
+      "Implemented concurrency and multithreading strategies that increased service throughput from 500 to 1,100 TPS (+120%) and reduced batch execution time by 50%. Integrated Python-based ML models into production systems supporting real-time clinical decision workflows.",
+      "Led backend engineering initiatives by defining coding standards, reviewing system designs, and establishing best practices for scalable services, contributing to production-grade platforms that supported physicians and clinical operations."
+    ]
+  }
+]

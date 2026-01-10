@@ -1,0 +1,52 @@
+[
+  {
+    "rank": 1,
+    "name": "Real-Time & Batch Data Pipelines",
+    "description": "Design and implement scalable streaming and batch data pipelines using BigQuery, Dataflow, Datastream and Pub/Sub to process 100+ TB/day workloads with millisecond latency."
+  },
+  {
+    "rank": 2,
+    "name": "Cloud Architecture & Cost Optimization",
+    "description": "Architect distributed data platforms on GCP, AWS and Azure, leveraging managed services and infrastructure as code. Optimize performance and cost, cutting cloud spend by up to 80%."
+  },
+  {
+    "rank": 3,
+    "name": "Data Warehousing & Modeling",
+    "description": "Build governed data warehouses and dimensional models using BigQuery and dbt; implement CDC, API and SFTP ingestion patterns and maintain 1,000+ production tables."
+  },
+  {
+    "rank": 4,
+    "name": "Machine Learning & Generative AI",
+    "description": "Develop and deploy ML models including LLMs, RAG pipelines, CNN/RNN, XGBoost and reinforcement learning. Apply RLHF and ZeRO optimization to improve model alignment and reduce compute costs."
+  },
+  {
+    "rank": 5,
+    "name": "MLOps & ML Infrastructure",
+    "description": "Set up end-to-end ML pipelines with Vertex AI, SageMaker, Feature Stores and CI/CD, enabling reproducible training, serving and experimentation."
+  },
+  {
+    "rank": 6,
+    "name": "Data Governance, Quality & Observability",
+    "description": "Implement robust data governance, IAM, row-level security and taxonomies. Design data quality and observability frameworks that boost dataset accuracy to 99.8% and cut incident resolution time by 50%."
+  },
+  {
+    "rank": 7,
+    "name": "Backend Engineering & Microservices",
+    "description": "Develop high-throughput backend services and microservices using Python, Java, FastAPI and Spring Boot. Apply concurrency and multithreading to support 5K+ concurrent requests with sub-200 ms latency."
+  },
+  {
+    "rank": 8,
+    "name": "DevOps & Infrastructure",
+    "description": "Use Docker, Terraform, GitLab CI/CD and Prefect to provision, deploy and orchestrate data and ML infrastructure across environments."
+  },
+  {
+    "rank": 9,
+    "name": "Data Visualization & Analytics",
+    "description": "Create insightful dashboards and visualizations with Looker, Tableau, Power BI and Python libraries (Matplotlib, Seaborn) to communicate data stories effectively."
+  },
+  {
+    "rank": 10,
+    "name": "Research & Innovation",
+    "description": "Explore cutting-edge AI techniques including multi-agent reinforcement learning, fairness in AI, affective state analysis and robotics, translating research into production solutions."
+  }
+]

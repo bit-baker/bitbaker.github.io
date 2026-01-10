@@ -1,0 +1,384 @@
+[
+  {
+    "season": "Season 1",
+    "year": "2018-2019",
+    "id": "1",
+    "title": "Origins of Momentum",
+    "theme": "Opportunity without permission",
+    "summary": "This is where everything began - not through a traditional path, but through curiosity, courage, and saying yes to opportunity before it felt safe.",
+    "episodes": [
+      {
+        "title": "CodeVita Changed Everything",
+        "id": "1",
+        "img": "assets/images/episodes/s1/e1.jpg",
+        "log_line": "One contest. One chance. A completely different trajectory.",
+        "bullets": [
+          "Earned my first professional opportunity through a global coding contest, bypassing traditional hiring routes.",
+          "Learned early that skill and initiative can open doors faster than credentials.",
+          "Built confidence in betting on myself before anyone else did."
+        ],
+        "reflection": "That's when I learned that talent finds its way - even without a map."
+      },
+      {
+        "title": "Intern, But Building Like an Owner",
+        "id": "2",
+        "img": "assets/images/episodes/s1/e2.avif",
+        "log_line": "When you're trusted with real systems, you grow fast.",
+        "bullets": [
+          "Built a production-grade, full-stack healthcare system handling real patient workflows.",
+          "Owned backend reliability, cloud deployment, and notification flows end-to-end.",
+          "Learned that users don't care about titles - only whether the system works."
+        ],
+        "reflection": "My first lesson in production engineering: responsibility arrives before seniority."
+      },
+      {
+        "title": "From Day One to Day Done",
+        "id": "3",
+        "img": "assets/images/episodes/s1/e3.png",
+        "log_line": "Some people ramp slowly. I shipped on day one.",
+        "bullets": [
+          "Delivered my first production API on the same day it was assigned, navigating an unfamiliar codebase under real deadlines.",
+          "Learned to move fast without breaking trust - balancing speed with reliability.",
+          "Built early credibility by letting results speak before I did."
+        ],
+        "reflection": "It became clear that confidence doesn't need volume - it just needs follow-through."
+      },
+      {
+        "title": "When Logs Became Teachers",
+        "id": "4",
+        "img": "assets/images/episodes/s1/e4.png",
+        "log_line": "Debugging turned into my first ML classroom.",
+        "bullets": [
+          "Used regression on production logs to surface recurring error patterns and system bottlenecks.",
+          "Discovered a natural pull toward combining software engineering with data-driven intelligence.",
+          "Started thinking beyond fixing bugs to understanding why systems fail."
+        ],
+        "reflection": "This is where software and machine learning first shook hands for me."
+      }
+    ]
+  },
+  {
+    "season": "Season 2",
+    "year": "2020",
+    "id": "2",
+    "title": "Ownership Without the Title",
+    "theme": "Turning responsibility into leadership",
+    "summary": "No promotions. No big announcements. Just stepping into responsibility and learning that leadership often shows up quietly before it shows up on paper.",
+    "episodes": [
+      {
+        "title": "Automating the Boring, Saving the Humans",
+        "id": "1",
+        "img": "assets/images/episodes/s2/e1.png",
+        "log_line": "If it's manual twice, it's automated forever.",
+        "bullets": [
+          "Built microservices that eliminated most repetitive operational work, freeing teams to focus on real engineering.",
+          "Turned fragile, manual SOPs into reliable, self-healing workflows.",
+          "Learned that the best engineers quietly remove pain points others tolerate."
+        ],
+        "reflection": "That's when I learned that efficiency is a form of empathy."
+      },
+      {
+        "title": "Parallel Thinking",
+        "id": "2",
+        "img": "assets/images/episodes/s2/e2.jpg",
+        "log_line": "When speed matters, architecture matters more.",
+        "bullets": [
+          "Introduced multithreading to critical services, dramatically improving throughput and performance.",
+          "Redesigned slow paths in the system instead of just optimizing around them.",
+          "Started thinking in flows and bottlenecks, not just lines of code."
+        ],
+        "reflection": "I stopped writing code for machines and started designing systems for scale."
+      },
+      {
+        "title": "Leader, by Mentorship",
+        "id": "3",
+        "img": "assets/images/episodes/s2/e3.png",
+        "log_line": "I didn’t seek authority. I built confidence in others.",
+        "bullets": [
+          "Designed onboarding journeys and learning paths that helped new engineers ramp up faster and feel supported from day one.",
+          "Became a trusted mentor for teammates — the person people came to when they needed clarity, confidence, or a sounding board.",
+          "Learned that real leadership often looks like listening first, guiding quietly, and helping others succeed before yourself."
+        ],
+        "reflection": "That’s when I realized leadership isn’t about being in front — it’s about standing beside people until they’re ready to lead."
+      }
+    ]
+  },
+  {
+    "season": "Season 3",
+    "year": "2021",
+    "id": "3",
+    "title": "Reinvention Mode",
+    "theme": "Crossing borders, expanding ambition",
+    "summary": "Sometimes growth means pressing reset. New country, new mindset, new challenges - and a bigger version of what I thought I could become.",
+    "episodes": [
+      {
+        "title": "From Engineer to Student Again",
+        "id": "1",
+        "img": "assets/images/episodes/s3/e1.png",
+        "log_line": "Sometimes the fastest way forward is to start over.",
+        "bullets": [
+          "Moved countries to pursue advanced study in artificial intelligence, trading stability for long-term growth.",
+          "Reset my identity from experienced engineer to curious learner - and embraced the humility that came with it.",
+          "Built resilience by choosing discomfort on purpose."
+        ],
+        "reflection": "That's when I learned reinvention isn't a setback - it's a strategy."
+      },
+      {
+        "title": "Learning to Teach Machines",
+        "id": "2",
+        "img": "assets/images/episodes/s3/e2.png",
+        "log_line": "From writing code to designing intelligence.",
+        "bullets": [
+          "Built computer vision models and reinforcement learning agents across multiple projects.",
+          "Learned to think in data pipelines and training loops, not just features and functions.",
+          "Started viewing systems through the lens of learning, not just logic."
+        ],
+        "reflection": "From that point forward, I stopped building software alone and started building intelligence."
+      },
+      {
+        "title": "Learning the Hard Way",
+        "id": "3",
+        "img": "assets/images/episodes/s3/e3.png",
+        "log_line": "Every wrong model was a better engineer in the making.",
+        "bullets": [
+          "Shipped imperfect models, learned quickly, and iterated faster than I ever had before.",
+          "Turned failed experiments into design intuition for future systems.",
+          "Adopted failure as a tool, not a threat."
+        ],
+        "reflection": "This is when failure stopped being personal and started becoming productive."
+      }
+    ]
+  },
+  {
+    "season": "Season 4",
+    "year": "2022",
+    "id": "4",
+    "title": "Influence Without Authority",
+    "theme": "Leading through learning",
+    "summary": "Leading without a title teaches you everything titles can't - how to listen better, explain clearer, and help others win before you do.",
+    "episodes": [
+      {
+        "title": "Three Hundred Minds, One Calm Engineer",
+        "id": "1",
+        "img": "assets/images/episodes/s4/e1.png",
+        "log_line": "Teaching at scale changes how you lead forever.",
+        "bullets": [
+          "Led labs, workshops, and Q&A sessions in machine learning and reinforcement learning for large student groups.",
+          "Became the bridge between complex theory and practical confidence.",
+          "Learned to lead rooms without raising my voice - just by being clear."
+        ],
+        "reflection": "That's when I learned that clarity is a leadership superpower."
+      },
+      {
+        "title": "Researching What Matters",
+        "id": "2",
+        "img": "assets/images/episodes/s4/e2.webp",
+        "log_line": "Performance is easy to chase. Fairness takes courage.",
+        "bullets": [
+          "Researched fairness in multi-agent systems, balancing individual and collective outcomes.",
+          "Built and evaluated reinforcement learning environments focused on equity, not just efficiency.",
+          "Learned that responsible AI starts long before deployment."
+        ],
+        "reflection": "This is when engineering became about values, not just velocity."
+      },
+      {
+        "title": "From Explaining to Empowering",
+        "id": "3",
+        "img": "assets/images/episodes/s4/e3.png",
+        "log_line": "Helping others grow became my fastest way to grow.",
+        "bullets": [
+          "Mentored peers through complex ML and systems concepts, accelerating team confidence.",
+          "Created learning paths that turned intimidation into momentum.",
+          "Discovered that real leadership multiplies others instead of spotlighting yourself."
+        ],
+        "reflection": "That's when I stopped proving myself and started enabling others."
+      }
+    ]
+  },
+  {
+    "season": "Season 5",
+    "year": "2023",
+    "id": "5",
+    "title": "From Intelligence to Infrastructure",
+    "theme": "Turning models into systems",
+    "summary": "This is where ideas turned into systems. Where models met reality. And where engineering stopped being about experiments and started being about endurance.",
+    "episodes": [
+      {
+        "title": "Graduation Day, System Thinking Era",
+        "id": "1",
+        "img": "assets/images/episodes/s5/e1.png",
+        "log_line": "The degree ended. The real engineering began.",
+        "bullets": [
+          "Built large-scale language model pipelines focused on efficiency, scalability, and cost-aware design.",
+          "Learned that AI in production is less about clever models and more about disciplined engineering.",
+          "Shifted mindset from experiments to systems that must survive real usage."
+        ],
+        "reflection": "That's when I learned that models impress, but systems endure."
+      },
+      {
+        "title": "Hello, Terabytes",
+        "id": "2",
+        "img": "assets/images/episodes/s5/e2.png",
+        "log_line": "Small data teaches technique. Big data teaches humility.",
+        "bullets": [
+          "Designed and operated data pipelines handling massive batch and streaming workloads.",
+          "Moved from building isolated projects to shaping platform-level foundations.",
+          "Learned to think in failure modes, not just happy paths."
+        ],
+        "reflection": "That's when scale stopped being a number and started being a responsibility."
+      },
+      {
+        "title": "Owning the Hard Parts",
+        "id": "3",
+        "img": "assets/images/episodes/s5/e3.png",
+        "log_line": "When systems broke, I didn't look away.",
+        "bullets": [
+          "Took ownership of reliability issues others avoided, redesigning pipelines for resilience.",
+          "Built trust by showing up in the moments that actually mattered.",
+          "Learned that leadership often begins in uncomfortable silence."
+        ],
+        "reflection": "From there on, I stopped being just a contributor and started being a constant."
+      }
+    ]
+  },
+  {
+    "season": "Season 6",
+    "year": "2024",
+    "id": "6",
+    "title": "Becoming the Force Multiplier",
+    "theme": "From strong engineer to system shaper",
+    "summary": "The year I stopped measuring impact by what I built alone - and started measuring it by how many people moved faster because of my work.",
+    "episodes": [
+      {
+        "title": "Certifications Are Nice. Systems Are Better.",
+        "id": "1",
+        "img": "assets/images/episodes/s6/e1.png",
+        "log_line": "Learning fast, applying faster.",
+        "bullets": [
+          "Deepened expertise in cloud infrastructure, orchestration, and platform engineering through hands-on production systems.",
+          "Turned theory into repeatable architectural patterns that teams could rely on.",
+          "Learned that credibility compounds when learning shows up in real systems."
+        ],
+        "reflection": "It became clear that knowledge only matters when it becomes dependable."
+      },
+      {
+        "title": "Owning the System",
+        "id": "2",
+        "img": "assets/images/episodes/s6/e2.png",
+        "log_line": "I didn't just build pipelines. I owned their failures.",
+        "bullets": [
+          "Designed end-to-end data and service architectures with reliability and scale as first-class goals.",
+          "Stepped into the uncomfortable problems others only touched, not owned.",
+          "Built trust by being consistent when systems were under pressure."
+        ],
+        "reflection": "Ownership isn't control. It's care - and I learned to show it."
+      },
+      {
+        "title": "From Engineer to Enabler",
+        "id": "3",
+        "img": "assets/images/episodes/s6/e3.png",
+        "log_line": "When others move faster because of your work, you're doing it right.",
+        "bullets": [
+          "Led internal trainings on CI/CD, infrastructure as code, and engineering best practices.",
+          "Created frameworks and templates that reduced friction for new projects.",
+          "Shifted impact from what I built to what others could build because of me."
+        ],
+        "reflection": "That's when I learned the best systems scale humans too."
+      },
+      {
+        "title": "From Output to Outcomes",
+        "id": "4",
+        "img": "assets/images/episodes/s6/e4.png",
+        "log_line": "Busy stopped being impressive. Impact started being everything.",
+        "bullets": [
+          "Moved beyond shipping features to designing architectures that delivered measurable results.",
+          "Optimized pipelines for cost, performance, and reliability - not just functionality.",
+          "Learned to measure success by outcomes, not activity."
+        ],
+        "reflection": "That's when I stopped counting tasks and started counting wins."
+      }
+    ]
+  },
+  {
+    "season": "Season 7",
+    "year": "2025",
+    "id": "7",
+    "title": "Owning the Platform",
+    "theme": "Quiet authority at scale",
+    "summary": "No louder titles. Just deeper ownership. This season is about building foundations others could trust - and showing that quiet consistency scales better than noise.",
+    "episodes": [
+      {
+        "title": "When Platforms Became My Problem",
+        "id": "1",
+        "img": "assets/images/episodes/s7/e1.png",
+        "log_line": "This stopped being about features. It became about foundations.",
+        "bullets": [
+          "Designed governed ingestion and data architectures that scaled across teams and use cases.",
+          "Shifted focus from delivering projects to building platforms meant to last.",
+          "Became a steady point of ownership for systems others depended on daily."
+        ],
+        "reflection": "That's when I stopped shipping work and started shaping ecosystems."
+      },
+      {
+        "title": "Observability Is Leadership",
+        "id": "2",
+        "img": "assets/images/episodes/s7/e2.png",
+        "log_line": "If you can't see it fail, you can't lead it.",
+        "bullets": [
+          "Built data observability and quality frameworks that turned incidents into insights.",
+          "Designed reliability patterns that made failures visible, actionable, and rare.",
+          "Helped teams move from reactive firefighting to proactive system ownership."
+        ],
+        "reflection": "I learned that reliability is not just technical - it's a leadership trait."
+      },
+      {
+        "title": "When Reality Rewrites the System",
+        "id": "3",
+        "img": "assets/images/episodes/s7/e3.png",
+        "log_line": "Failure stopped being scary. It became useful.",
+        "bullets": [
+          "Re-architected critical pipelines after real production pain, designing systems that forgive human error.",
+          "Used hard lessons to build smarter automation and stronger safety nets.",
+          "Turned setbacks into design intuition instead of excuses."
+        ],
+        "reflection": "My best systems were born from my worst days."
+      },
+      {
+        "title": "When AI Met Real Operations",
+        "id": "4",
+        "img": "assets/images/episodes/s7/e4.png",
+        "log_line": "Models finally met production reality.",
+        "bullets": [
+          "Deployed large-scale ML pipelines with real performance, cost, and reliability constraints.",
+          "Learned that good AI is mostly engineering discipline with a touch of math.",
+          "Bridged the gap between experimentation and dependable production systems."
+        ],
+        "reflection": "That's when intelligence became operational."
+      },
+      {
+        "title": "The Year I Became the Go-To",
+        "id": "5",
+        "img": "assets/images/episodes/s7/e5.png",
+        "log_line": "Not by title. By trust.",
+        "bullets": [
+          "Led through critical platform moments by being the calm constant when things mattered most.",
+          "Mentored engineers and guided cross-team initiatives without needing formal authority.",
+          "Built influence quietly by showing up consistently for people and systems."
+        ],
+        "reflection": "Influence isn't announced. It's earned."
+      },
+      {
+        "title": "From Builder to Multiplier",
+        "id": "6",
+        "img": "assets/images/episodes/s7/e6.jpg",
+        "log_line": "My impact stopped being measured by what I built alone.",
+        "bullets": [
+          "Created frameworks, templates, and standards that enabled others to move faster and safer.",
+          "Shifted from individual contribution to multiplying team capability.",
+          "Designed systems that scaled not just data - but people."
+        ],
+        "reflection": "That's when I learned the best engineers eventually become force multipliers."
+      }
+    ]
+  }
+]

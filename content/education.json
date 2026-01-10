@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ms",
+    "title": "Master of Science in Artificial Intelligence",
+    "role": "University at Buffalo, SUNY",
+    "year": "2021 - 2023",
+    "location": "Buffalo, NY",
+    "image": "assets/images/exp_suny.webp",
+    "tags": ["Python", "AI", "Deep Learning", "Reinforcement Learning", "Docker", "Advanced SQL"],
+    "genres": ["Academic", "Artificial Intelligence", "Advanced Systems"],
+    "mood": "Research-Driven • Systems-Oriented • Advanced",
+    "bullets": [
+      "Graduated with a 3.6/4 GPA in a rigorous, research-focused AI curriculum.",
+      "Served as Teaching Assistant for Machine Learning and Reinforcement Learning, mentoring students on production-minded model design.",
+      "Built deep expertise in Deep Reinforcement Learning, Computer Vision, and large-scale ML systems.",
+      "Developed a strong foundation in turning theory into deployable, real-world solutions."
+    ]
+  },
+  {
+    "id": "btech",
+    "title": "B. Tech in Computer Science and Engineering",
+    "role": "Vignan University",
+    "year": "2015 - 2019",
+    "location": "India",
+    "image": "assets/images/edu_btech.jpg",
+    "tags": ["Python", "Java", "C", "SQL", "Data Structures", "Algorithms", "Web Development"],
+    "genres": ["Academic", "Computer Science", "Software Foundations"],
+    "mood": "Foundational • Disciplined • Engineering-First",
+    "bullets": [
+      "Graduated with a 9.05/10 CGPA in a core computer science program.",
+      "Built strong fundamentals in algorithms, data structures, and software engineering principles.",
+      "Developed early interest in scalable systems, databases, and applied AI.",
+      "Established the engineering discipline that later shaped large-scale data and ML platforms."
+    ]
+  }
+]

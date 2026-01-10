@@ -1,0 +1,53 @@
+[
+  {
+    "id": "gcp-pde",
+    "title": "Professional Data Engineer",
+    "role": "Google Cloud",
+    "year": "2025",
+    "location": "Verified",
+    "image": "assets/images/cert_gcpde.png",
+    "link": "https://www.credly.com/badges/c4633ff5-a8cc-4495-874b-144deca869dd",
+    "tags": ["GCP", "BigQuery", "DataFlow", "DataStream", "IAM"],
+    "genres": ["Certification", "Data Engineering", "Cloud Architecture"],
+    "mood": "Validated • Senior-Level • Production-Ready",
+    "bullets": [
+      "Designs and operationalizes large-scale data processing systems on Google Cloud.",
+      "Certified in building secure, reliable, and cost-efficient analytics platforms.",
+      "Demonstrates production-grade expertise across streaming, batch, and governance layers."
+    ]
+  },
+  {
+    "id": "terraform",
+    "title": "Terraform Associate",
+    "role": "HashiCorp",
+    "year": "2024",
+    "location": "Verified",
+    "image": "assets/images/cert_tf.png",
+    "link": "https://www.credly.com/badges/88eee568-802d-4f6c-8de1-972b88afa353",
+     "tags": ["IaC", "Terraform", "Cloud Automation"],
+    "genres": ["Certification", "Infrastructure", "DevOps"],
+    "mood": "Automated • Scalable • Battle-Tested",
+    "bullets": [
+      "Certified in Infrastructure as Code principles for repeatable, auditable deployments.",
+      "Applies Terraform to standardize cloud environments across teams and regions.",
+      "Strengthens platform reliability through versioned, automated infrastructure."
+    ]
+  },
+  {
+    "id": "prefect",
+    "title": "Prefect Associate",
+    "role": "Prefect",
+    "year": "2024",
+    "location": "Verified",
+    "image": "assets/images/cert_prefect.jpg",
+    "link": "https://www.credly.com/badges/88eee568-802d-4f6c-8de1-972b88afa353",
+    "tags": ["Python", "Orchestration", "Workflows"],
+    "genres": ["Certification", "Data Orchestration", "Platform Engineering"],
+    "mood": "Reliable • Observable • Production-Grade",
+    "bullets": [
+      "Certified in building resilient, observable data workflows using Prefect.",
+      "Implements orchestration patterns that reduce failure rates and manual intervention.",
+      "Brings software-engineering discipline to modern data pipeline operations."
+    ]
+  }
+]
